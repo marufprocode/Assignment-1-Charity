@@ -163,6 +163,7 @@ body {
    display: inline-block;
    height: 100vh;
    font-family: 'Poppins', sans-serif;
+   margin-top: -4px;
 }
 
 .gallery-img img{
@@ -175,18 +176,15 @@ body {
 
 .gallery-img{
    display: inline-block;
-   margin-left: auto;
-   margin: 0 auto;
    vertical-align: middle;
    text-align: center;
 }
 
 .gallery-sec h2{
+   margin-top: 40px;
    text-align: center;
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   font-size: 30px;
-   
-
+   font-size: 40px;
 }
 
 /* .sec-blog{
